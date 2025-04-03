@@ -1,4 +1,4 @@
-# High-Latitude-CMEs
+# O. Khabarova, N. Samara, N. Tishler, H. Reshef, and C. Price. Properties of Coronal Mass Ejections at High Apparent Latitudes in 1996-2023 - Supporting data
 
 Description
 
