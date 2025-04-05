@@ -19,5 +19,5 @@ This dataset contains observations of high-latitude Coronal Mass Ejections (CMEs
 | `MPA` | Measurement Position Angle, where the CME's properties were most reliably measured. |
 | `Movies/Plots & Links` | Instruments and media used to observe the CME (e.g., LASCO C2, C3, EIT 195). |
 | `Remarks` | Notes about the CME event quality or special characteristics (e.g., \"Partial Halo\", \"Poor Event\"). |
-| `quality` | Quality rating of the data or event, typically ranging from 1 (low) to 3 (high). |
+| `quality` | Quality rating of the data or event, typically ranging from 1 (low) to 5 (high). |
 | `movie` | Direct link to a Java movie visualization of the CME event hosted by CDAW (SOHO LASCO CME Catalog). |
